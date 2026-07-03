@@ -1,0 +1,13 @@
+{
+  "name": "huaweicloud-iot-device-sdk",
+  "version": "1.0.0",
+  "modelVersion": "5.0.0",
+  "description": "华为云IoT ArkTS设备SDK",
+  "main": "ets/index.ets",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.19",
+    "@ohos/hamock": "1.0.0"
+  }
+}

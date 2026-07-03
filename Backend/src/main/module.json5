@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "Backend",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1"
+    ]
+  }
+}

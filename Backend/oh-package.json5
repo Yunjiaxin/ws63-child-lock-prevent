@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "0.0.1",
+  "description": "Huawei Cloud IoT Device SDK, API 12+",
+  "main": "index.ets",
+  "author": "Huawei Cloud IoT",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/huaweicloud/huaweicloud-iot-device-sdk-arkts",
+  "keywords": [
+    "mqtt",
+    "mqtts",
+    "iot",
+    "iotda",
+    "OpenHarmony",
+    "HarmonyOS"
+  ],
+  "dependencies": {
+    "@ohos/mqtt": "^2.0.14",
+    "@ohos/crypto-js": "^2.0.4",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {},
+  "dynamicDependencies": {}
+}

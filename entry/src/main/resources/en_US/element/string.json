@@ -1,0 +1,180 @@
+{
+  "string": [
+    {
+      "name": "connecting",
+      "value": "Connecting..."
+    },
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "基于WS63的儿童误锁系统"
+    },
+    {
+      "name": "iotda_title",
+      "value": "IoTDA"
+    },
+    {
+      "name": "iotda_connect",
+      "value": "Connect"
+    },
+    {
+      "name": "input_secret_placeholder",
+      "value": "input your device secret"
+    },
+    {
+      "name": "input_deviceId_placeholder",
+      "value": "input your deviceId"
+    },
+    {
+      "name": "input_serverUri_placeholder",
+      "value": "input your serverUri, ssl://xxx:8883"
+    },
+    {
+      "name": "connect_success_title",
+      "value": "Connect Success"
+    },
+    {
+      "name": "property",
+      "value": "Property"
+    },
+    {
+      "name": "message",
+      "value": "Message"
+    },
+    {
+      "name": "command",
+      "value": "Command"
+    },
+    {
+      "name": "disconnect",
+      "value": "Disconnect"
+    },
+    {
+      "name": "try_property_title",
+      "value": "Try Property"
+    },
+    {
+      "name": "input_property_placeholder",
+      "value": "input the properties"
+    },
+    {
+      "name": "report_property",
+      "value": "Report Property"
+    },
+    {
+      "name": "property_sample",
+      "value": "Property Sample"
+    },
+    {
+      "name": "try_message_title",
+      "value": "Try Message"
+    },
+    {
+      "name": "input_message_placeholder",
+      "value": "input the message"
+    },
+    {
+      "name": "report_system_topic_message",
+      "value": "Report Message（System Topic）"
+    },
+    {
+      "name": "report_custom_topic_message",
+      "value": "Report Message(Custom Topic)"
+    },
+    {
+      "name": "report_custom_oc_topic_message",
+      "value": "Report Message(Custom OC Topic)"
+    },
+    {
+      "name": "message_sample",
+      "value": "Message Sample"
+    },
+    {
+      "name": "try_command_title",
+      "value": "Try Command"
+    },
+    {
+      "name": "set_command_listener",
+      "value": "Set Command Listener"
+    },
+    {
+      "name": "command_sample",
+      "value": "Command Sample"
+    },
+    {
+      "name": "profile",
+      "value": "Profile"
+    },
+    {
+      "name": "try_profile_title",
+      "value": "Try Profile"
+    },
+    {
+      "name": "set_profile",
+      "value": "Set Profile"
+    },
+    {
+      "name": "set_shadow_listener",
+      "value": "Set Shadow Listener & Get Shadow"
+    },
+    {
+      "name": "try_shadow_title",
+      "value": "Try Shadow"
+    },
+    {
+      "name": "shadow",
+      "value": "Shadow"
+    },
+    {
+      "name": "try_reconnect_title",
+      "value": "Try ReConnect"
+    },
+    {
+      "name": "set_reconnect_option",
+      "value": "Set Reconnect Option"
+    },
+    {
+      "name": "reconnect",
+      "value": "Reconnect"
+    },
+    {
+      "name": "set_property_listener",
+      "value": "Set Property Listener"
+    },
+    {
+      "name": "clear_log",
+      "value": "Clear Log"
+    },
+    {
+      "name": "disable_auto_report",
+      "value": "Disable Auto Report"
+    },
+    {
+      "name": "reconnecting",
+      "value": "Connection lost, reconnecting..."
+    },
+    {
+      "name": "custom_temperature",
+      "value": "Custom Properties"
+    },
+    {
+      "name": "report_custom_temp_humid",
+      "value": "Report Custom Properties"
+    },
+    {
+      "name": "write_media_reason",
+      "value": "Used to export sensor data files to the Download directory"
+    },
+    {
+      "name": "read_media_reason",
+      "value": "Used to read exported data files"
+    }
+  ]
+}
